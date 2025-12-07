@@ -941,7 +941,7 @@ const Workshops = () => {
      { 
     text: 'Participated in Hacathone – VIT University', 
     icon: CodeBracketIcon, 
-    certificate: Vit1
+    certificate: VIT1
   },
   { 
     text: '2-Day DSA Workshop – MANIT Bhopal', 
